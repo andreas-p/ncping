@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE xml>
+<info>
+    <id>ncping</id>
+    <name>NcPing</name>
+    <description>NcPing</description>
+    <author>PSE Consulting Andreas Pflug</author>
+    <version>1.0.0</version>
+    <namespace>NcPing</namespace>
+    <category>other</category>
+    <dependencies>
+		<nextcloud min-version="15" max-version="22" />
+    </dependencies>
+</info>
